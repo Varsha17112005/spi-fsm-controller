@@ -30,6 +30,7 @@ IDLE → LOAD → TRANSFER → PARITY → DONE
 
 
 ## Project Structure
+```text
 spi-fsm-controller/
 │
 ├── rtl/
@@ -45,6 +46,7 @@ spi-fsm-controller/
 │   └── report.pdf
 │
 └── README.md
+```
 
 
 ## Simulation
