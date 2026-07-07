@@ -40,11 +40,9 @@ spi-fsm-controller/
 ├── tb/
 │   └── tb_spi_master.v
 │
-├── waveforms/
-│   └── spi_waveform.png
+├── spi_waveform.png
 │
-├── docs/
-│   └── report.pdf
+├── SPI_Master_FSM_Project_Report.pdf
 │
 └── README.md
 ```
