@@ -26,8 +26,9 @@ This project implements an FSM-based SPI Master Controller using Verilog HDL for
 
 
 ## FSM States
+```text
 IDLE → LOAD → TRANSFER → PARITY → DONE
-
+```
 
 ## Project Structure
 ```text
