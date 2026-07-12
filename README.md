@@ -98,7 +98,7 @@ spi-fsm-controller/
 │
 ├── spi_waveform.png
 │
-├── SPI_Communication_eport.pdf
+├── SPI_Multi_Slave_Controller_Design_Report.pdf
 │
 └── README.md
 ```
