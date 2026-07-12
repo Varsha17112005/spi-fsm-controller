@@ -96,11 +96,9 @@ spi-fsm-controller/
 ├── tb/
 │   └── tb_spi_top.v
 │
-├── waveforms/
-│   └── spi_waveform.png
+├── spi_waveform.png
 │
-├── docs/
-│   └── report.pdf
+├── SPI_Communication_eport.pdf
 │
 └── README.md
 ```
